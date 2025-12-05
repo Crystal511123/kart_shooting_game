@@ -1,4 +1,4 @@
 # Kart_Shooting_Game
 A 2p game that combines kart and shooting. Able to play with VR or a wireless motion controller.
 ## Demo
-[![Demo](kart.png)](https://www.youtube.com/watch?v=Q4DGVBlQil4 "Demo - Click to Watch!")
+[![Demo_video](kart.png)](https://www.youtube.com/watch?v=Q4DGVBlQil4 "Demo_video - Click to Watch!")
